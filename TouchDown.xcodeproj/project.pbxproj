@@ -37,6 +37,8 @@
 		CAD712192B83712300FF545B /* NavigationBarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD712182B83712300FF545B /* NavigationBarDetailView.swift */; };
 		CAD7121B2B83727F00FF545B /* HeaderDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD7121A2B83727F00FF545B /* HeaderDetailView.swift */; };
 		CAD7121D2B83736000FF545B /* TopPartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD7121C2B83736000FF545B /* TopPartDetailView.swift */; };
+		CAD7121F2B837AF900FF545B /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD7121E2B837AF900FF545B /* CustomShape.swift */; };
+		CAD712212B837D2000FF545B /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD712202B837D2000FF545B /* RatingsSizesDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +74,8 @@
 		CAD712182B83712300FF545B /* NavigationBarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarDetailView.swift; sourceTree = "<group>"; };
 		CAD7121A2B83727F00FF545B /* HeaderDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderDetailView.swift; sourceTree = "<group>"; };
 		CAD7121C2B83736000FF545B /* TopPartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPartDetailView.swift; sourceTree = "<group>"; };
+		CAD7121E2B837AF900FF545B /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
+		CAD712202B837D2000FF545B /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +173,7 @@
 				CAD712182B83712300FF545B /* NavigationBarDetailView.swift */,
 				CAD7121A2B83727F00FF545B /* HeaderDetailView.swift */,
 				CAD7121C2B83736000FF545B /* TopPartDetailView.swift */,
+				CAD712202B837D2000FF545B /* RatingsSizesDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -196,6 +201,7 @@
 			isa = PBXGroup;
 			children = (
 				CAD711D82B81845800FF545B /* constant.swift */,
+				CAD7121E2B837AF900FF545B /* CustomShape.swift */,
 			);
 			path = Utiliry;
 			sourceTree = "<group>";
@@ -294,6 +300,7 @@
 				CAD711DF2B81889500FF545B /* LogoView.swift in Sources */,
 				CAD7120F2B8367CB00FF545B /* ProductItemView.swift in Sources */,
 				CAD712152B836CC100FF545B /* BrandGridView.swift in Sources */,
+				CAD712212B837D2000FF545B /* RatingsSizesDetailView.swift in Sources */,
 				CAD711DB2B81853700FF545B /* FooterView.swift in Sources */,
 				CAD712172B836FB100FF545B /* ProductDetailView.swift in Sources */,
 				CAD712192B83712300FF545B /* NavigationBarDetailView.swift in Sources */,
@@ -305,6 +312,7 @@
 				CAD712132B836BEB00FF545B /* BrandItemView.swift in Sources */,
 				CAD712052B81DD6200FF545B /* CategoryItemView.swift in Sources */,
 				CAD711DD2B81878700FF545B /* NavigationBarView.swift in Sources */,
+				CAD7121F2B837AF900FF545B /* CustomShape.swift in Sources */,
 				CAD711E12B818CA800FF545B /* PlayerModel.swift in Sources */,
 				CAD712112B836B8D00FF545B /* BrandModel.swift in Sources */,
 				CAD7120B2B82D8BF00FF545B /* TitleView.swift in Sources */,
